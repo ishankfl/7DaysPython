@@ -1,0 +1,5 @@
+# input()
+print("Enter your name")
+user_input = input("\n")
+print("Your name is ", user_input)
+print("Your name is user_input")

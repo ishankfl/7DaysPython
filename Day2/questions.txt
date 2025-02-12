@@ -1,0 +1,9 @@
+1. write a program to get input from user and print
+
+2. Write a Python code to check whether a number entered by the user is positive, negative, or zero.
+
+3. Write a Python program to calculate the area of a rectangle.
+
+4. Write a Python program to find the largest of three numbers.
+
+5. Write a Python program to check if a person is eligible to vote.
