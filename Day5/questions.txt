@@ -1,0 +1,8 @@
+1️. Create a Student class with name and marks, and a method to display them.
+2️.  Create a BankAccount class with deposit() and withdraw() methods.
+3️. Implement a Laptop class with attributes brand and price, and a method to display details.
+4️. Write a Circle class with radius and a method to calculate area.
+5️. Create a Dog class that inherits from Animal and overrides a method.
+6️. Implement an Encapsulation example where balance is private in BankAccount.
+7️. Create a Vehicle class and Car & Bike classes that inherit from it.
+8️. Create a class with method overloading using default parameters.
